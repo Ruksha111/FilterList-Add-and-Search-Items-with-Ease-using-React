@@ -1,3 +1,5 @@
+This project is deployed on nelify #https://65c905445b047043629f41b7--thunderous-crostata-3cf9c5.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
